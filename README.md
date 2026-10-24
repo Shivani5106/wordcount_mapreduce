@@ -1,6 +1,6 @@
 # Exp 02 Word Count using MapReduce
 
-**Date:**
+**Date: 24.10.2026**
 
 ## AIM:
 To implement the Word Count program using the MapReduce programming model and determine the frequency of each word in the given input text.
